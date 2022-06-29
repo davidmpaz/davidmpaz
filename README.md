@@ -18,3 +18,17 @@ Other places were I can be found:
 [xs]: https://img.shields.io/badge/Xing-davidmpaz-informational?style=flat&logo=xing&logoColor=white&color=FFFFFF
 [li]: https://www.linkedin.com/in/davidmpaz
 [lis]: https://img.shields.io/badge/LinkedIn-davidmpaz-informational?style=flat&logo=linkedin&logoColor=white&color=FFFFFF
+
+Lately i've been learning: 
+
+[![tool][awss]][aws] & [![tool][mpss]][mps]
+
+[aws]: https://aws.amazon.com
+[awss]: https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=FFFFFF
+[mps]: https://www.jetbrains.com/mps
+[mpss]: https://img.shields.io/badge/DSL-MPS-informational?style=flat&logo=jetbrains&logoColor=white&color=FFFFFF
+
+
+![GitHub Sats](https://github-readme-stats.vercel.app/api?username=davidmpaz&show_icons=true&icon_color=FFFFFF&text_color=ffffff&bg_color=00000000&hide_title=true&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidmpaz&layout=compact&langs_count=8&icon_color=FFFFFF&text_color=ffffff&bg_color=00000000&hide_title=true&hide_border=true)](https://github.com/davidmpaz/github-readme-stats)
+
