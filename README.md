@@ -30,5 +30,6 @@ Lately i've been learning:
 
 
 ![GitHub Sats](https://github-readme-stats.vercel.app/api?username=davidmpaz&show_icons=true&icon_color=FFFFFF&text_color=ffffff&bg_color=00000000&hide_title=true&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidmpaz&layout=compact&langs_count=8&icon_color=FFFFFF&text_color=ffffff&bg_color=00000000&hide_title=true&hide_border=true)](https://github.com/davidmpaz/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidmpaz&layout=compact&langs_count=8&icon_color=FFFFFF&text_color=ffffff&bg_color=00000000&hide_title=true&hide_border=true)
+
 
