@@ -32,5 +32,5 @@ Lately i've been learning:
 
 ---
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=davidmpaz&show_icons=true&icon_color=FFFFFF&text_color=ffffff&bg_color=00000000&hide_title=true&hide_border=true" alt="David's Github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmpaz&layout=compact&langs_count=8&icon_color=FFFFFF&text_color=ffffff&bg_color=00000000&hide_title=true&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=davidmpaz&show_icons=true&icon_color=FFFFFF&text_color=BBC7B4&bg_color=00000000&hide_title=true&hide_border=true" alt="David's Github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmpaz&layout=compact&langs_count=8&icon_color=FFFFFF&text_color=BBC7B4&bg_color=00000000&hide_title=true&hide_border=true" /></a> |
 | ------------- | ------------- |
