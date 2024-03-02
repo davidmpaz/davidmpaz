@@ -1,10 +1,10 @@
 ### Hello there 👋🏽
 
-My name is David Paz. I'm a **Computer Scientist** with more than **12 years** of experience in designing, developing and releasing software.
+My name is David Paz. I'm a **Computer Scientist** with more than **15 years** of experience in designing, developing and releasing software.
 
 As a Software Professional, I am **passionate** about shaping ideas into software solutions. I have experience bringing projects to life in different contexts such as **Enterprise** as well as **non Enterprise** and with teams of diverse sizes.
 
-I consider myself a **problem solver**, automation and Model-Driven Development fan. With a touch of love for **Web technologies** and **Continuous Integration/Delivery**.
+I consider myself a **problem solver**, automation and Model-Driven Development fan. With a touch of love for **Continuous Integration/Delivery**.
 
 ---
 
@@ -29,8 +29,3 @@ Lately i've been learning:
 [awss]: https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=FFFFFF
 [mps]: https://www.jetbrains.com/mps
 [mpss]: https://img.shields.io/badge/DSL-MPS-informational?style=flat&logo=jetbrains&logoColor=white&color=FFFFFF
-
----
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=davidmpaz&show_icons=true&icon_color=FFFFFF&text_color=BBC7B4&bg_color=00000000&hide_title=true&hide_border=true" alt="David's Github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmpaz&layout=compact&langs_count=8&icon_color=FFFFFF&text_color=BBC7B4&bg_color=00000000&hide_title=true&hide_border=true" /></a> |
-| ------------- | ------------- |
